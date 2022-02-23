@@ -4,8 +4,7 @@
 In this lab, you will learn how to use **strings FUNctions**, as well as make sure you grasp the idea of **Input/Output** a bit more!
 
 
-<iframe src="https://giphy.com/embed/xUA7aKCtqnlAzuIg8M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+<img src='https://giphy.com/embed/xUA7aKCtqnlAzuIg8M'>
 
 
 
