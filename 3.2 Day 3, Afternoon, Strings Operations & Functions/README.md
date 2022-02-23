@@ -4,7 +4,7 @@
 In this lab, you will learn how to use **strings FUNctions**, as well as make sure you grasp the idea of **Input/Output** a bit more!
 
 
-<img src='https://media.giphy.com/media/xUA7aKCtqnlAzuIg8M/giphy.gif'>
+<img src='https://cdn.dribbble.com/users/1362378/screenshots/6668699/cordas.gif'>
 
 
 
